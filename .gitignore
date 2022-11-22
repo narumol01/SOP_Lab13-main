@@ -1,0 +1,3 @@
+# Project exclude paths
+/SOP_Lab13-main/bookstore-service/target/
+/SOP_Lab13-main/reading-service/target/
